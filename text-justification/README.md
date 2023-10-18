@@ -20,5 +20,7 @@ For the last line of text, it should be left-justified, and no extra space is in
 
 ## Test
 
+There are 6 different test cases to test this function against.
+
 - Initialize `npm install`
 - Run `npm test` to run (AVA.js) unit tests
